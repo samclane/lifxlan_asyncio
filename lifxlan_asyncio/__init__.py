@@ -1,0 +1,6 @@
+__version__     = '0.0.0'
+__description__ = 'Asynchronous API for local communication with LIFX devices over a LAN.'
+__url__         = 'http://github.com/mclarkk/lifxlan_asyncio'
+__author__      = 'Sawyer McLane'
+__authoremail__ = 'samclane@gmail.com'
+__license__     = 'TODO'
